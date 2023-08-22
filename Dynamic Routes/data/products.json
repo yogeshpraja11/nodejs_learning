@@ -1,0 +1,30 @@
+[
+  {
+    "id": "54561dfcg",
+    "title": "A Book",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "description": "This is an awesome book!",
+    "price": "19"
+  },
+  {
+    "id":"54561dsfcg",
+    "title": "Atomic Habits",
+    "imageUrl": "https://jamesclear.com/wp-content/uploads/2023/05/atomic-habits-dots.png",
+    "description": "Google users\r\nThe #1 New York Times bestseller. Over 10 million copies sold !Tiny Changes, Remarkable Results No matter your goals, Atomic Habits offers a proven framework for improving--every day",
+    "price": "200"
+  },
+  {
+    "id":"5456sfsfcg",
+    "title": "psycho cybernetics",
+    "imageUrl": "https://m.media-amazon.com/images/I/51EPMqvqURL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "description": "Psycho-Cybernetics is a self-help book written by American writer Maxwell Maltz in 1960. Motivational and self-help experts in personal development, including Zig Ziglar, Tony Robbins, Brian Tracy have based their techniques on Maxwell Maltz.",
+    "price": "700"
+  },
+  {
+    "id":"46fdfcg",
+    "title": "The Millionaire Fastlane",
+    "imageUrl": "https://m.media-amazon.com/images/I/51EOf29qA0L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "description": "Escape Financial Mediocrity, Ditch the Job, and Slash 40-Years Off The Road to Wealth! Have You Been Hoodwinked into a 40-Year Financial Lie? There’s a Fastlane to millions, a short-cut paved by mathematics, where you can LIVE RICH NOW versus DYING RICH LATER. ",
+    "price": "699"
+  }
+]
