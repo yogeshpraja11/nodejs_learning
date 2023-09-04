@@ -6,3 +6,4 @@ Learnings
 -Express.js
 -MVC
 -Dynamic Routing
+-MYSQL
